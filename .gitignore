@@ -1,0 +1,5 @@
+node_modules/
+*.log
+.env
+ssh-keygen -t ed25519 -C "walls.jason03@gmail.com"
+ssh-keygen -t ed25519 -C "walls.jason03@gmail.com".pub
